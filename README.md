@@ -1,1 +1,1 @@
-# Репозиторий содержит Ansible Playbool для разворачивания GitLab
+# Репозиторий содержит Ansible Playbook для разворачивания GitLab
