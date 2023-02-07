@@ -23,7 +23,7 @@
       vg: ocivolume
       lv: root
       size: 100%PVS
-      force: true
+      resizefs: true
 
   - name: Create "crash" directory
     file:
